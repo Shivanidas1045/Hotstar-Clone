@@ -1,0 +1,152 @@
+body{
+    background-color:black;
+    display:flex;
+}
+#logo{
+    width:5%;
+    position:absolute;
+    margin-left:70px;
+}
+#box{
+    width:60%;
+    position:relative;
+    filter:blur(2px);
+    margin-left:70px;
+    margin-top:80px;
+}
+
+#masai {
+    border:0px solid red;
+    width: 30%;
+    height: auto;
+    border-radius: 15px;
+    margin: auto;
+    /* background-color:#003b95; */
+    padding-bottom: 30px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+.Nav {
+    margin: auto;
+    border: 0px solid rgb(128, 0, 111);
+    display: grid;
+    grid-template-columns: repeat(7, 1fr);
+    gap: 10px;
+    margin: 10px 100px;
+}
+
+.main {
+    margin: auto;
+    border: 0px solid green;
+    background-color: #003580;
+    height: 150px;
+    margin-top: 0px;
+}
+
+
+button:hover {
+    background:gray;
+    color:white;
+}
+a{
+    text-decoration: none;
+}
+
+
+
+
+#masai>button>a{
+    color: white;
+}
+    
+
+h2{
+    color: white;
+    margin-left: 30px;
+}
+
+
+
+h1 {
+    text-align: center;
+    padding: 10px;
+    border: 0px solid green;
+    color:white;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+}
+
+
+form {
+    width: 400px;
+    margin:auto;
+    border:3px solid white;
+    border-radius:12px;
+    
+
+}
+
+form label {
+    display: flex;
+    margin-top: 20px;
+    padding-bottom: 10px;
+
+}
+
+form input {
+    width: 72%;
+    padding: 10px;
+    border: none;
+    border: 1px solid green;
+    border-radius: 5px;
+    margin-left:40px;
+   
+}
+button{
+    width: 70%;
+    height: 40px;
+    border-radius:5px ;
+    background-color:transparent;
+    color: white;
+    border: 2px solid white;
+   font-size: 20px;
+   margin-left:50px;
+    
+}
+p{
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    color:white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+    
+    }
+    .login{
+        width: 30%;
+        height: auto;
+        margin: auto;
+        border-radius: 15px;
+        box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+        margin-top: 0px;
+    }
+    .one{
+        margin-top: 30px;
+        margin-bottom: 30px;
+        font-size: 20px;
+       }
+       .two>a{
+        font-size: 20px;
+        color: white;
+       }
+    #pad{
+        padding-bottom: 30px;
+        
+    }
+    
+    a{
+        color: yellowgreen;
+        text-decoration: none;
+
+    }
+    
