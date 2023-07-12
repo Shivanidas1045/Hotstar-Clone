@@ -24,7 +24,7 @@ then you will be redirected to the payment page.
 ### Now you can do choose the payment method and can emjoy the service provided by the given website!
 
 ## Some pictures are added here :-
-![image](https://github.com/Shivanidas1045/Hotstar-Clone/assets/114162435/07c1963c-8796-4276-89ec-d39d1faab5c8)
+![image](https://github.com/Shivanidas1045/Hotstar-Clone/assets/114162435/07c1963c-8796-4276-89ec-d39d1faab5c8)<br>
 ![image](https://github.com/Shivanidas1045/Hotstar-Clone/assets/114162435/81aecfd9-f29c-4e7a-a5be-366ef2f7210e)
 ![image](https://github.com/Shivanidas1045/Hotstar-Clone/assets/114162435/f45d5960-01c4-4947-b40c-825d9aa28d17)
 ![image](https://github.com/Shivanidas1045/Hotstar-Clone/assets/114162435/49a31d2f-06ce-4f9f-8387-87a4e0376e25)
